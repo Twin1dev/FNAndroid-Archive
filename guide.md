@@ -2,7 +2,7 @@
 
 Hey, I've been asked a bit about this "how to get lawin working" so I decided to make a quick yet clear and effective guide for you, so you can understand how to get LawinServer working on Android.
 
-Cr: Shady For Making This Guide
+Cr: Shady For Making This Guide Check His [Discord Server.](https://discord.gg/cpRZq2ETC8)
 
 ![Example of Fortnite Season 6 Working On Lawin Server With XMPP ](https://cdn.discordapp.com/attachments/853780763538751498/954148891987681310/Screenshot_20220307-141558_Fortnite.jpg)
 
@@ -75,3 +75,101 @@ Make a new line under ../../../FortniteGame/FortniteGame.uproject and type in -s
 Next to -httpproxy=, type in the IP you wrote down, followed by :8888.
 
 Once you are done, the UE4CommandLine.txt file should look something like [This.](https://cdn.discordapp.com/attachments/912818657237815366/912820384980680764/unknown.png) If it does, save it and close it.
+
+## Part 6 - Now, go back to the Apk Folder
+
+With the Fortnite Build APK and the Apk Folder and open Command Prompt.
+
+Navigate to the folder in Command Prompt and run apktool b (foldername). Wait for it to finish, then close Command Prompt.
+
+Now, go inside the Fortnite Folder folder and locate a folder called dist. Inside of it should be an APK. If there's not, check and make sure that nothing went wrong with the build.
+
+(Video: https://streamable.com/hd4jmv)
+
+## Part 7 - Copy the newly made APK over to your phone
+
+Preferably in a folder with no other files.
+
+(Video: https://streamable.com/vz99pf)
+
+## Part 8 - Using MiXplorer to sign the APK.
+
+There are plenty of good tutorials out there on how to do this. I suggest watching [This one.](https://www.youtube.com/watch?v=EEL_tN2OLW0)
+
+## Part 9 - Now, tap on the signed APK in MiXplorer.
+
+If it asks what you would like to install the APK with, press Package Installer.
+
+If a box pops up saying that MiX can't install apps from unknown sources, give the app permission through settings.
+
+Another box may pop up saying that Play Protect has blocked the app. Press Install Anyway.
+
+If another box pops up saying that Play Protect would like to scan the app, ignore it and press No.
+
+Now the APK should be installed!
+
+## Part 10 - Congrats! You have successfully installed the modified app.
+
+In order to have any functionality though, you need to set up a server to connect to.
+
+## Lawin Server - Setup Process 
+
+Prerequisites
+
+NodeJS - https://nodejs.org/dist/v17.1.0/node-v17.1.0-x64.msi
+
+LawinServer - https://tinyurl.com/lawinserver
+
+Fiddler - https://tinyurl.com/fiddlerclassic
+
+(Note: Make sure you install NodeJS with Chocolatey! There should be an option in the installer.)
+
+## Part 1 - Extract the LawinServer ZIP to an empty folder
+
+Now Run install_packages.bat
+
+(Video: https://streamable.com/4q2klc)
+
+## Part 2 - Open Fiddler and click on the FiddlerScript tab.
+
+Then, paste the following code in:
+
+import Fiddler;
+
+class Handlers
+{
+    static function OnBeforeRequest(oSession: Session) {
+        if (oSession.hostname.Contains(".ol.epicgames.com"))
+        {
+            if (oSession.HTTPMethodIs("CONNECT"))
+            {
+                oSession["x-replywithtunnel"] = "FortniteTunnel";
+                return;
+            }
+
+            oSession.fullUrl = "http://127.0.0.1:3551" + oSession.PathAndQuery;
+        }
+    }
+}
+
+After that is pasted in, click Save Script.
+
+(Video: https://streamable.com/4q2klc)
+
+## Part 3 - Now, on your Android device.
+
+Navigate to your Wifi settings. Make sure you are connected to the same network that your pc is connected to. Tap on the Settings icon next to the Wifi network, and then tap Advanced
+
+Now tap Proxy and set it to Manual. For the host name, put down the same IP as you put in UE4CommandLine.txt, except without the 8888. Now where it says Proxy Port, put 8888. When you are done, it should look basically the same as this. After you are done, tap Save and exit out of the Settings menu.
+
+Now, open Chrome on your device and go to http://ipv4.fiddler:8888/. You should see some text that says You can download the FiddlerRoot certificate. Click on the blue text. It will download a file, but you will get an error saying Can't install CA certificates. Open Settings on your device and search for Install network certificates. Once you find it, tap on it and navigate to where you have the certificate downloaded. Tap on the certificate and press Done. Now, name the certificate whatever you like and press Done again. It should say that the certificate has been installed.
+
+## Part 4 - open Fortnite on your device.
+
+It should load up like normal.
+
+When you get to the login screen, press Yes, and then press Epic Games. For the email, enter anything followed by @., and put anything for the password.
+
+If everything was done correctly, you should have logged in! It will ask you what firing mode you want, and just pick any. Now press Lobby on the news tab, and boom! You are now connected to LawinServer on your phone.
+
+There you have it! Now you can mess around with LawinServer on your phone. Almost everything that works on PC for LawinServer works on mobile, so try some stuff out!

@@ -15,7 +15,8 @@ HxD - https://mh-nexus.de/downloads/HxDSetup.zip
 
 Fiddler - https://tinyurl.com/fiddlerclassic
 
-On your Phone:
+On your Phone
+
 MiX File Explorer: https://tinyurl.com/mixfileexplorer
 
 (Note: You do not need to root your phone to follow this tutorial. All you need is a compatible Android device)

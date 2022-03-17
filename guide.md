@@ -6,8 +6,10 @@ Hey, I've been asked a bit about this "how to get lawin working" so I decided to
 
 ## Part 0 - Before you start
 
-# Prerequisites
+Prerequisites
+
 On your PC:
+
 Apktool - https://ibotpeaches.github.io/Apktool/install/
 
 HxD - https://mh-nexus.de/downloads/HxDSetup.zip

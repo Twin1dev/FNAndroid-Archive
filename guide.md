@@ -24,6 +24,6 @@ Well you know, to begin you have to choose one of the builds listed on my archiv
 
 You can see what season you are getting right **here.**
 
-![Season Example](https://media.discordapp.net/attachments/952386927984775209/953748401504264273/unknown.png)
+![Season Example](https://cdn.discordapp.com/attachments/853780763538751498/954152830367858759/unknown.png)
 
 

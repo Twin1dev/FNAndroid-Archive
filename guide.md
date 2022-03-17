@@ -6,9 +6,8 @@ Hey, I've been asked a bit about this "how to get lawin working" so I decided to
 
 ## Part 0 - Before you start
 
-Prerequisites
 
-On your PC:
+On your PC
 
 Apktool - https://ibotpeaches.github.io/Apktool/install/
 
@@ -16,7 +15,7 @@ HxD - https://mh-nexus.de/downloads/HxDSetup.zip
 
 Fiddler - https://tinyurl.com/fiddlerclassic
 
-# On your Phone:
+On your Phone:
 MiX File Explorer: https://tinyurl.com/mixfileexplorer
 
 (Note: You do not need to root your phone to follow this tutorial. All you need is a compatible Android device)

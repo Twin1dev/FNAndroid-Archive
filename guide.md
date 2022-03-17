@@ -134,6 +134,8 @@ Now Run install_packages.bat
 
 Then, paste the following code in:
 
+{
+
 import Fiddler;
 
 class Handlers
@@ -151,6 +153,8 @@ class Handlers
         }
     }
 }
+
+ }
 
 After that is pasted in, click Save Script.
 

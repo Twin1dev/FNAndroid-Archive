@@ -134,7 +134,7 @@ Now Run install_packages.bat
 
 Then, paste the following code in:
 
-** import Fiddler;
+import Fiddler;
 
 class Handlers
 {
@@ -150,7 +150,7 @@ class Handlers
             oSession.fullUrl = "http://127.0.0.1:3551" + oSession.PathAndQuery;
         }
     }
-} **
+}
 
 After that is pasted in, click Save Script.
 

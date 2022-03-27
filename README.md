@@ -59,9 +59,18 @@ Here Is The Guide That Will help you Get Lawin Server Working, You Can Find It [
 | 10 | Fortnite+10-40-0-9302865-android | https://shorturl.at/flGW2 |
 
 
+# Chapter 1 (Only skippatchcheck)
+
+| Season | Build | Download | 
+| :---: | ----------- | ----------- | 
+| 6 | Fortnite+6-10-0-4464155-android | [Download](https://drive.google.com/file/d/1h5I8WkBzhowaqy2AC_0bePKxTZHcyfH3/view?usp=sharing) |
+| 7 | Fortnite+7-40-0-5004581-android | [Download](https://drive.google.com/file/d/1gpFPCTyj7q-CiUe5st24ARmEfAWi8ynT/view?usp=sharing) |
+| 9 | Fortnite+9-40-0-7326262-android | [Download](https://drive.google.com/file/d/1gc87G9ehD1i0offVW77U8QSPf9ZYFgdt/view?usp=sharing) |
+
 # Credits
 Crunnie Made The Logo And Made The IOS Archive Wich Gave Me inspiration To Make This Android Archive
 Shady Made The SSL Bypass Guide
+Lawin Made LawinServer
 
 # Alternative Link
 

@@ -64,8 +64,12 @@ Here Is The Guide That Will help you Get Lawin Server Working, You Can Find It [
 | Season | Build | Download | 
 | :---: | ----------- | ----------- | 
 | 6 | Fortnite+6-10-0-4464155-android | [Download](https://drive.google.com/file/d/1h5I8WkBzhowaqy2AC_0bePKxTZHcyfH3/view?usp=sharing) |
+| 7 | Fortnite+7-30-0-4834550-android | [Download](https://drive.google.com/file/d/1owSXQaE5pN_D0wxvG5LDVlh7mZXe3BMH/view?usp=sharing) |
 | 7 | Fortnite+7-40-0-5004581-android | [Download](https://drive.google.com/file/d/1gpFPCTyj7q-CiUe5st24ARmEfAWi8ynT/view?usp=sharing) |
+| 8 | Fortnite+8-20-0-5688020-android | [Download](https://drive.google.com/file/d/1ow5aj4Q4JxoceZ0sClEzy0zWgMMyZeEg/view?usp=sharing) |
+| 9 | Fortnite+9-10-0-6573057-android | [Download](https://drive.google.com/file/d/1owFEf4H37rBe3Q5I-k2qU3peWT-TD95R/view?usp=sharing) |
 | 9 | Fortnite+9-40-0-7326262-android | [Download](https://drive.google.com/file/d/1gc87G9ehD1i0offVW77U8QSPf9ZYFgdt/view?usp=sharing) |
+| 10 | Fortnite+10-10-0-7955722-android | [Download](https://drive.google.com/file/d/1or0ym6W1B7A1bdpqkPIApDPutuk8KxvS/view?usp=sharing) |
 
 # Credits
 Crunnie Made The Logo And Made The IOS Archive Wich Gave Me inspiration To Make This Android Archive

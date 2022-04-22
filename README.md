@@ -11,7 +11,7 @@ An archive full of Android APK files.
 https://github.com/Crunnie/FNiOS-Archive
 
 # Shady Made a Guide How To Have Lawin On Your Phone!
-Here Is The Guide That Will help you Get Lawin Server Working, You Can Find It [here.](https://github.com/Nintendosss/FNAndroid-Archive/blob/main/guide.md)
+Here Is The Guide That Will help you Get Lawin Server Working, You Can Find It [here.](https://discord.gg/cpRZq2ETC8)
 
 # Chapter 1
 

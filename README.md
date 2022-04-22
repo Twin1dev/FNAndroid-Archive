@@ -81,7 +81,3 @@ Here Is The Guide That Will help you Get Lawin Server Working, You Can Find It [
 Crunnie Made The Logo And Made The IOS Archive Wich Gave Me inspiration To Make This Android Archive
 Shady Made The SSL Bypass Guide
 Lawin Made LawinServer
-
-# Alternative Link
-
-The direct link to all Android builds is [here.](shorturl.at/bAL18)

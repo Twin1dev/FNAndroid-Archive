@@ -65,6 +65,16 @@ Here Is The Guide That Will help you Get Lawin Server Working, You Can Find It [
 | 10 | Fortnite+10.40DevSSL-Android | https://cdn.discordapp.com/attachments/784567894347743252/849416302803812372/Fortnite_10.40_DEVBUILD_No_SSL_Pinning_TEST2.apk |
 
 
+# Chapter 1 (NOMCP)
+
+| Season | Build | Download | 
+| :---: | ----------- | ----------- | 
+| 6 | Fortnite+5-2-0-4464155-android | [Download](https://drive.google.com/file/d/1DeuCrFD0vhH8Wu-tBJcRpIuwvnpDALAk/view?usp=sharing) |
+| 6 | Fortnite+5-30-0-4464155-android | [Download](https://drive.google.com/file/d/1DbzWdHQYEtQbwFPQdQWOhydgZNtMa2NS/view?usp=sharing) |
+| 6 | Fortnite+5-41-0-4464155-android | [Download](https://drive.google.com/file/d/1PsyGQR0HNAAecupuR9bEH5DPAGxDpuvo/view?usp=drivesdk) |
+
+
+
 # Chapter 1 (Only skippatchcheck)
 
 | Season | Build | Download | 

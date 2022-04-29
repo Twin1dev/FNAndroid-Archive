@@ -69,7 +69,7 @@ Here Is The Guide That Will help you Get Lawin Server Working, You Can Find It [
 
 | Season | Build | Download | 
 | :---: | ----------- | ----------- | 
-| 5 | Fortnite+5-41-0-4464155-android | [Download]((https://drive.google.com/file/d/1PsyGQR0HNAAecupuR9bEH5DPAGxDpuvo/view?usp=drivesdk) |
+| 5 | Fortnite+5-41-0-4464155-android | [Download](https://drive.google.com/file/d/1PsyGQR0HNAAecupuR9bEH5DPAGxDpuvo/view?usp=drivesdk) |
 
 
 

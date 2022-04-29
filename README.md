@@ -61,15 +61,15 @@ Here Is The Guide That Will help you Get Lawin Server Working, You Can Find It [
 # Leaked Season 10 Dev Build
 | Season | Build | Download | 
 | :---: | ----------- | ----------- | 
-| 10 | Fortnite+10.40Dev-Android | https://cdn.discordapp.com/attachments/784567894347743252/849038005611397120/Fortnite_10.40.apk |
-| 10 | Fortnite+10.40DevSSL-Android | https://cdn.discordapp.com/attachments/784567894347743252/849416302803812372/Fortnite_10.40_DEVBUILD_No_SSL_Pinning_TEST2.apk |
+| 10 | Fortnite+10.40Dev-Android | [Download](https://cdn.discordapp.com/attachments/784567894347743252/849038005611397120/Fortnite_10.40.apk) |
+| 10 | Fortnite+10.40DevSSL-Android |[Download](https://cdn.discordapp.com/attachments/784567894347743252/849416302803812372/Fortnite_10.40_DEVBUILD_No_SSL_Pinning_TEST2.apk) |
 
 
 # Chapter 1 (NOMCP)
 
 | Season | Build | Download | 
 | :---: | ----------- | ----------- | 
-| 5 | Fortnite+5-41-0-4464155-android | [Download](https://drive.google.com/file/d/1PsyGQR0HNAAecupuR9bEH5DPAGxDpuvo/view?usp=drivesdk) |
+| 5 | Fortnite+5-41-0-4464155-android | [Download]((https://drive.google.com/file/d/1PsyGQR0HNAAecupuR9bEH5DPAGxDpuvo/view?usp=drivesdk) |
 
 
 

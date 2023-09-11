@@ -27,7 +27,7 @@ Here Is The Guide That Will help you Get Lawin Server Working, You Can Find It [
 | 6 | Fortnite+6-02-0-4440378-android | [Download](https://drive.google.com/file/d/1VUf1r7Oinxeb_yyAJaz22HAWAxnQ3g9I/view?usp=sharing) |
 | 6 | Fortnite+6-10-0-4464155-android | [Download](https://drive.google.com/file/d/17kJF6po8BvW9TcsU9DFsmOef0p14qJW5/view?usp=sharing) |
 | 6 | Fortnite+6-20-0-4497486-android | [Download](https://drive.google.com/file/d/14xLguHuV8ddb2WPa9umwDVT_xM2Pq6dt/view?usp=sharing) |
-| 6 | Fortnite+6.21.0-4526925-Android | [Download](https://drive.google.com/file/d/17gW24YHREBw0uzbAYTNDoMdQkT7G_fqn/view?usp=sharing) |
+| 6 | Fortnite+6.21.0-4526925-Android | [Download](https://drive.google.com/file/d/1i94Z8SuiHiH29WpaiJiJT6JOTMEpZvs-/view) |
 | 6 | Fortnite+6-22-0-4538154-android | [Download](https://drive.google.com/file/d/1T0cx0Xk-urYgVVyEzzy0wKF36Gqlhcys/view?usp=sharing) |
 | 6 | Fortnite+6-30-0-4560568-android | [Download](https://drive.google.com/file/d/1MvT7bCOiK_ydAVO5C93dECEfnhxPxlCc/view?usp=sharing) |
 | 6 | Fortnite+6-31-0-4573279-android | [Download](https://drive.google.com/file/d/19uXZ7JRQsNcEANNm7EH4kL8empU1cOIn/view?usp=sharing) |
